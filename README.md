@@ -1,5 +1,3 @@
-# Bankers-Algorithm
-Assignment 5 for my CS2040 algorithms course
 Mia Abbott
 November 21st, 2022
 CS2040
