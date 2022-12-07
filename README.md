@@ -1,7 +1,9 @@
+# Algorithms Assignment Five - Banker's Algorithm
+
 Mia Abbott
-November 21st, 2022
+
 CS2040
-Algorithms Assignment Five - Bankers Algorithm
+
 
 **OVERVIEW:**
 
